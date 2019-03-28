@@ -36,6 +36,6 @@ Accuracy per model:
 Neural Network model - 87.5%
 Support Vector Machine - 82%
 Random Forest - 75%
-Naive Bayes - 77%
+Naive Bayes - 77% 
 
 The Accuracy of Neural Network is highest among all the model with an accuracy of 87.5%
